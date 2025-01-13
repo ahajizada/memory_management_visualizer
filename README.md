@@ -10,8 +10,8 @@ This project simulates memory allocation and deallocation processes for heap and
 
 ## How to Build
 1. Clone the repository:
-   git clone https://github.com/ahajizada/memory_management_visualizer.git
-   cd memory_management_visualizer
+   - git clone https://github.com/ahajizada/memory_management_visualizer.git
+   - cd memory_management_visualizer
 
 2. Compile the program:
    make
