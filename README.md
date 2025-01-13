@@ -14,9 +14,9 @@ This project simulates memory allocation and deallocation processes for heap and
    - cd memory_management_visualizer
 
 2. Compile the program:
-   make
+   - make
 
 ## How to Run
 1. Run the executable:
-   ./memory_management_visualizer
+   - ./memory_management_visualizer
 2. Follow the on-screen instructions to allocate, deallocate, and visualize memory.
